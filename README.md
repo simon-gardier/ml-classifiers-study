@@ -7,7 +7,7 @@
 
 Project undertaken as part of the ELEN0062 course given by Pr. Geurts and Pr. Wehenkel.<br>
 Grades : 18.55/20<br>
-
+A complete report can be found [here](report.pdf).
 ## Quick summary
 
 The project is composed of :
