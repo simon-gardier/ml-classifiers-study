@@ -19,9 +19,9 @@ The project is composed of :
 ## Content
 
 - data.py : Generates training and testing data
-- dt.py : Experiments on the decision tree
-- knn.py : Experiments on the KNN
-- perceptron.py : Implementation and experiments on the perceptron
+- dt.py : Experiments on the decision tree classifer
+- knn.py : Experiments on the KNN classifier
+- perceptron.py : Implementation and experiments on the perceptron classfier
 - plot.py : Plotting functions
 
 ## Credits
